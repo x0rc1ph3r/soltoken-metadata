@@ -1,7 +1,18 @@
 {
-    "name": "Billinium",
-    "symbol": "BN",
-    "description": "The coin of billionaires",
-    "image": "https://raw.githubusercontent.com/farmansk/soltoken-metadata/master/lightning.avif"
+  "name": "Billinium",
+  "symbol": "BN",
+  "image": "https://raw.githubusercontent.com/farmansk/soltoken-metadata/master/lightning.avif",
+  "description": "The coin of billionaires",
+  "extensions": {
+    "website": "https://farmansk.github.io/",
+    "twitter": "https://twitter.com/x0rc1ph3r",
+    "telegram": "https://t.me/farman_sk"
+  },
+  "tags": [
+    "Meme"
+  ],
+  "creator": {
+    "name": "Farman Shaik",
+    "site": "https://farmansk.github.io"
   }
-  
+}
