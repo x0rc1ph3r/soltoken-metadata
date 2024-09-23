@@ -1,10 +1,10 @@
 {
-  "name": "Billinium",
-  "symbol": "BN",
-  "image": "https://raw.githubusercontent.com/farmansk/soltoken-metadata/master/lightning.avif",
-  "description": "The coin of billionaires",
+  "name": "Farman's Token",
+  "symbol": "FT",
+  "image": "https://raw.githubusercontent.com/farmansk/soltoken-metadata/master/tokenlogo.jpeg",
+  "description": "The coin of Farman",
   "extensions": {
-    "website": "https://farmansk.github.io/",
+    "website": "https://x0rc1ph3r.in/",
     "twitter": "https://twitter.com/x0rc1ph3r",
     "telegram": "https://t.me/farman_sk"
   },
@@ -13,6 +13,6 @@
   ],
   "creator": {
     "name": "Farman Shaik",
-    "site": "https://farmansk.github.io"
+    "site": "https://x0rc1ph3r.in"
   }
 }
