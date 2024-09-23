@@ -1,8 +1,8 @@
 {
-  "name": "Farman's Token",
-  "symbol": "FT",
-  "image": "https://raw.githubusercontent.com/farmansk/soltoken-metadata/master/tokenlogo.jpeg",
-  "description": "The coin of Farman",
+  "name": "Billinium",
+  "symbol": "BN",
+  "image": "https://raw.githubusercontent.com/farmansk/soltoken-metadata/master/lightning.avif",
+  "description": "The coin of billionaires",
   "extensions": {
     "website": "https://x0rc1ph3r.in/",
     "twitter": "https://twitter.com/x0rc1ph3r",
@@ -13,6 +13,6 @@
   ],
   "creator": {
     "name": "Farman Shaik",
-    "site": "https://x0rc1ph3r.in"
+    "site": "https://farmansk.github.io"
   }
 }
